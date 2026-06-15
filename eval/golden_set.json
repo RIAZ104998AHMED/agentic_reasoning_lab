@@ -1,0 +1,152 @@
+[
+    {
+        "id": "gsm_001",
+        "problem": "Janet's ducks lay 16 eggs per day. She eats three for breakfast every morning and bakes muffins for her friends every day with four. She sells the remainder at the farmers' market daily for $2 per fresh duck egg. How much in dollars does she make every day at the farmers' market?",
+        "answer": "18",
+        "source": "GSM8K"
+    },
+    {
+        "id": "gsm_002",
+        "problem": "A robe takes 2 bolts of blue fiber and half that much white fiber. How many bolts in total does it take?",
+        "answer": "3",
+        "source": "GSM8K"
+    },
+    {
+        "id": "gsm_003",
+        "problem": "Josh decides to try flipping a house. He buys a house for $80,000 and then puts in $50,000 in repairs. This increased the value of the house by 150%. How much profit did he make?",
+        "answer": "70000",
+        "source": "GSM8K"
+    },
+    {
+        "id": "gsm_004",
+        "problem": "James decides to run 3 sprints 3 times a week. He runs 60 meters each sprint. How many total meters does he run a week?",
+        "answer": "540",
+        "source": "GSM8K"
+    },
+    {
+        "id": "gsm_005",
+        "problem": "Every day, Wendi feeds each of her chickens three cups of mixed chicken feed, containing seeds, mealworms and vegetables to help keep them healthy. She gives the chickens their feed in three separate meals. In the morning, she gives her flock of chickens 15 cups of feed. In the afternoon she gives her chickens another 25 cups of feed. How many cups of feed does she need to give her chickens in the final meal of the day if the size of Wendi's flock is 20 chickens?",
+        "answer": "20",
+        "source": "GSM8K"
+    },
+    {
+        "id": "gsm_006",
+        "problem": "Kylar went to the store to buy glasses for his new apartment. One glass costs $5, but every second glass costs only 60% of the price. Kylar wants to buy 16 glasses. How much does he need to pay for them?",
+        "answer": "64",
+        "source": "GSM8K"
+    },
+    {
+        "id": "gsm_007",
+        "problem": "Toulouse has twice as many sheep as Charleston. Charleston has 4 times as many sheep as Seattle. How many sheep do Toulouse, Charleston, and Seattle have together if Seattle has 20 sheep?",
+        "answer": "260",
+        "source": "GSM8K"
+    },
+    {
+        "id": "gsm_008",
+        "problem": "Ann is cutting fabric to make flags. She cuts a 4 foot by 6 foot rectangle for the first flag, and a 3 foot by 5 foot rectangle for the second flag. If the flags are both triangular, how much fabric does she use in total?",
+        "answer": "19.5",
+        "source": "GSM8K"
+    },
+    {
+        "id": "gsm_009",
+        "problem": "A store sells 9 dozen eggs. How many eggs does the store sell?",
+        "answer": "108",
+        "source": "GSM8K"
+    },
+    {
+        "id": "gsm_010",
+        "problem": "Tom needs to lower a rope down 6 stories. One story is 10 feet. The only rope he has is 70 feet long but 30% of it is unusable because it is frayed at the end. How many feet short is the rope?",
+        "answer": "11",
+        "source": "GSM8K"
+    },
+    {
+        "id": "gsm_011",
+        "problem": "Bella has two times as many marbles as frisbees. She also has 20 more frisbees than deck cards. If she buys 2/5 times more of each item, what would be the total number of the items she will have if she currently has 60 marbles?",
+        "answer": "140",
+        "source": "GSM8K"
+    },
+    {
+        "id": "gsm_012",
+        "problem": "John pays for a candy bar with 4 quarters, 3 dimes, and a nickel. He gets 4 cents back as change. How many cents did the candy bar cost?",
+        "answer": "131",
+        "source": "GSM8K"
+    },
+    {
+        "id": "gsm_013",
+        "problem": "A company has 500 employees, and each employee earns $2000 per month. The company also hires 200 contractors who each earn $6000 per month. How much does the company pay in salaries and contractor fees per month?",
+        "answer": "2200000",
+        "source": "GSM8K"
+    },
+    {
+        "id": "gsm_014",
+        "problem": "It takes 10 minutes to wash a car, 4 minutes to clean the windows, and 6 minutes to detail the car. How long does it take to complete a full service on 2 cars?",
+        "answer": "40",
+        "source": "GSM8K"
+    },
+    {
+        "id": "gsm_015",
+        "problem": "A liter of chlorine costs $10 and is now sold at 20% off. A box of soap powder used to cost $25 and is now sold at 30% off. How much will it cost to buy 3 liters of chlorine and 5 boxes of soap powder?",
+        "answer": "111.5",
+        "source": "GSM8K"
+    },
+    {
+        "id": "gsm_016",
+        "problem": "Mark has 3 tanks for pregnant fish. Each tank has 4 pregnant fish and each fish will have 20 babies. How many babies will Mark have at the end?",
+        "answer": "240",
+        "source": "GSM8K"
+    },
+    {
+        "id": "gsm_017",
+        "problem": "Sam and Jeff had a skipping competition at recess. The competition was split into 4 rounds. Sam completed 1 more skip than Jeff in the first round. Jeff skipped 3 fewer times than Sam in the second round. Jeff skipped 4 more times than Sam in the third round. Jeff got tired and only completed half the number of skips as Sam in the last round. If Sam skipped 16 times in each round, what is the average number of skips per round completed by Jeff?",
+        "answer": "14",
+        "source": "GSM8K"
+    },
+    {
+        "id": "gsm_018",
+        "problem": "There are 100 people in a theater. If 19 of these people have blue eyes, half of them have brown eyes, a quarter have black eyes, and the rest have green eyes, how many people have green eyes?",
+        "answer": "6",
+        "source": "GSM8K"
+    },
+    {
+        "id": "gsm_019",
+        "problem": "Grace is filling her pool. She normally helps her mom with filling the pool and it takes 20 minutes to fill. Since she's alone, it's taking her 1.5 times longer. She has already been filling the pool for 10 minutes. How much longer does she need to fill the pool?",
+        "answer": "20",
+        "source": "GSM8K"
+    },
+    {
+        "id": "gsm_020",
+        "problem": "Randy has 60 mango trees on his farm. He also has 5 fewer coconut trees than mango trees. How many trees does Randy have in all?",
+        "answer": "115",
+        "source": "GSM8K"
+    },
+    {
+        "id": "gsm_021",
+        "problem": "A farmer has 52 cows. Each cow gives 5 liters of milk per day. The farmer sells the milk at $3 per liter. How much money does the farmer make in 7 days?",
+        "answer": "5460",
+        "source": "GSM8K"
+    },
+    {
+        "id": "gsm_022",
+        "problem": "Alex has 10 boxes of pens. Each box has 8 pens. He gives 3 pens to each of his 6 friends. How many pens does he have left?",
+        "answer": "62",
+        "source": "GSM8K"
+    },
+    {
+        "id": "gsm_023",
+        "problem": "A train travels at 60 miles per hour. It needs to cover a distance of 180 miles. How long will the journey take in minutes?",
+        "answer": "180",
+        "source": "GSM8K"
+    },
+    {
+        "id": "gsm_024",
+        "problem": "Lisa is baking cookies. She uses 2 cups of flour per dozen cookies. She wants to bake 5 dozen cookies but only has 8 cups of flour. How many more cups of flour does she need?",
+        "answer": "2",
+        "source": "GSM8K"
+    },
+    {
+        "id": "gsm_025",
+        "problem": "A school has 3 classes with 28 students each, and 2 classes with 32 students each. The school gets 10 new students who are distributed evenly across all classes. How many students does each class have after the new students arrive?",
+        "answer": "30",
+        "source": "GSM8K"
+    }
+]
