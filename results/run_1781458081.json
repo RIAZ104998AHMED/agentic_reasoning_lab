@@ -1,0 +1,25 @@
+{
+  "timestamp": 1781458081,
+  "model": "claude-haiku-4-5-20251001",
+  "n_problems": 5,
+  "strategies": {
+    "react": {
+      "accuracy": 0.0,
+      "correct": 0,
+      "n": 5,
+      "ci_low": 0.0,
+      "ci_high": 0.43449149475208104,
+      "total_tokens_in": 0,
+      "total_tokens_out": 0,
+      "cost_usd": 0.0,
+      "cost_per_correct_usd": Infinity,
+      "avg_wall_ms": 0.0
+    }
+  },
+  "win_matrix": {
+    "react": {
+      "react": 0
+    }
+  },
+  "mcnemar_pvalues": {}
+}

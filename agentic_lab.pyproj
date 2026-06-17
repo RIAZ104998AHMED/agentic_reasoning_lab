@@ -1,0 +1,61 @@
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>999bd2be-dbd2-4a84-a411-50f4df6f3cbf</ProjectGuid>
+    <ProjectHome>.</ProjectHome>
+    <StartupFile>demo.py</StartupFile>
+    <SearchPath>
+    </SearchPath>
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <Name>agentic_lab</Name>
+    <RootNamespace>agentic_lab</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="demo.py" />
+    <Compile Include="eval\harness.py" />
+    <Compile Include="eval\judge.py" />
+    <Compile Include="eval\judge_sanity_check.py" />
+    <Compile Include="eval\metrics.py" />
+    <Compile Include="observability\failure_analysis.py" />
+    <Compile Include="observability\llm_client.py" />
+    <Compile Include="observability\logger.py" />
+    <Compile Include="observability\replay.py" />
+    <Compile Include="strategies\base.py" />
+    <Compile Include="strategies\plan_execute.py" />
+    <Compile Include="strategies\react.py" />
+    <Compile Include="strategies\self_consistency.py" />
+    <Compile Include="strategies\tree_of_thoughts.py" />
+    <Compile Include="tools\registry.py" />
+    <Compile Include="__init__.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="eval\" />
+    <Folder Include="observability\" />
+    <Folder Include="tools\" />
+    <Folder Include="strategies\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include=".env" />
+    <Content Include="eval\golden_set.json" />
+    <Content Include="requirements.txt" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
+  <!-- Uncomment the CoreCompile target to enable the Build command in
+       Visual Studio and specify your pre- and post-build commands in
+       the BeforeBuild and AfterBuild targets below. -->
+  <!--<Target Name="CoreCompile" />-->
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+</Project>

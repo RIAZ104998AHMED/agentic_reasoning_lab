@@ -1,0 +1,89 @@
+{
+  "timestamp": 1781458113,
+  "model": "claude-haiku-4-5-20251001",
+  "n_problems": 25,
+  "strategies": {
+    "react": {
+      "accuracy": 0.0,
+      "correct": 0,
+      "n": 25,
+      "ci_low": 0.0,
+      "ci_high": 0.13319649395317873,
+      "total_tokens_in": 0,
+      "total_tokens_out": 0,
+      "cost_usd": 0.0,
+      "cost_per_correct_usd": Infinity,
+      "avg_wall_ms": 0.0
+    },
+    "plan_execute": {
+      "accuracy": 0.0,
+      "correct": 0,
+      "n": 25,
+      "ci_low": 0.0,
+      "ci_high": 0.13319649395317873,
+      "total_tokens_in": 0,
+      "total_tokens_out": 0,
+      "cost_usd": 0.0,
+      "cost_per_correct_usd": Infinity,
+      "avg_wall_ms": 0.0
+    },
+    "self_consistency": {
+      "accuracy": 0.0,
+      "correct": 0,
+      "n": 25,
+      "ci_low": 0.0,
+      "ci_high": 0.13319649395317873,
+      "total_tokens_in": 0,
+      "total_tokens_out": 0,
+      "cost_usd": 0.0,
+      "cost_per_correct_usd": Infinity,
+      "avg_wall_ms": 0.0
+    },
+    "tree_of_thoughts": {
+      "accuracy": 0.0,
+      "correct": 0,
+      "n": 25,
+      "ci_low": 0.0,
+      "ci_high": 0.13319649395317873,
+      "total_tokens_in": 0,
+      "total_tokens_out": 0,
+      "cost_usd": 0.0,
+      "cost_per_correct_usd": Infinity,
+      "avg_wall_ms": 0.0
+    }
+  },
+  "win_matrix": {
+    "react": {
+      "react": 0,
+      "plan_execute": 0,
+      "self_consistency": 0,
+      "tree_of_thoughts": 0
+    },
+    "plan_execute": {
+      "react": 0,
+      "plan_execute": 0,
+      "self_consistency": 0,
+      "tree_of_thoughts": 0
+    },
+    "self_consistency": {
+      "react": 0,
+      "plan_execute": 0,
+      "self_consistency": 0,
+      "tree_of_thoughts": 0
+    },
+    "tree_of_thoughts": {
+      "react": 0,
+      "plan_execute": 0,
+      "self_consistency": 0,
+      "tree_of_thoughts": 0
+    }
+  },
+  "mcnemar_pvalues": {
+    "react_vs_plan_execute": 1.0,
+    "react_vs_self_consistency": 1.0,
+    "react_vs_tree_of_thoughts": 1.0,
+    "plan_execute_vs_self_consistency": 1.0,
+    "plan_execute_vs_tree_of_thoughts": 1.0,
+    "self_consistency_vs_tree_of_thoughts": 1.0
+  }
+}
